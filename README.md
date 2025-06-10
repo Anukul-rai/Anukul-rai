@@ -1,10 +1,9 @@
 ## Introduction 👋
 
-👋 Hi, I'm a Frontend Developer passionate about building responsive and user-friendly web interfaces.
-
-💻 Skilled in HTML, CSS, JavaScript, and modern frameworks like React.
-🎯 I focus on clean code, performance, and great user experiences.
-🚀 Currently learning more about backend integration and full-stack development.
-📫 Let's connect: [Your Email] | [LinkedIn]
+👋 Hi! I'm a Frontend Developer who loves bringing designs to life. 
+💻 React, JavaScript, and CSS are my tools of choice. 
+🎯 Focused on accessibility, performance, and pixel-perfect implementations. 
+🚀 Constantly learning and staying current with web technologies. 
+📫 Let's connect and create something incredible!
 
 
